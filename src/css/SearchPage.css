@@ -1,0 +1,6 @@
+.searchPage{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: #f8f1f1;
+}
